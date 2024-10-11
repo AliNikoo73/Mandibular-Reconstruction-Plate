@@ -52,3 +52,5 @@ Using **finite element simulations**, different mandibular models were tested un
 - **FEA** simulations were used to test the impact of **healing periods** and **bite forces** on reconstructed mandibles.
 - **Selective laser melting (SLM)** was assessed for fabricating porous NiTi plates.
 - Both **patient-specific** and **prefabricated** hardware options were considered for **surgical applications**.
+- The article is on [persian (local) news](https://www.mehrnews.com/news/4865483/طراحی-نوع-جدیدی-از-صفحات-تثبیت-کننده-فک-برای-رفع-مشکلات-جراحی)
+
