@@ -1,0 +1,86 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.env
+.venv
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# FEA software files
+*.dat
+*.rst
+*.fil
+*.res
+*.inp~
+*.out~
+*.sta~
+*.h3d
+
+# CAD software files
+*.bak
+*.dwl
+*.dwl2
+*.srzip
+*.scdoc.bak
+*/TP*
+
+# Mimics files
+*.mcs
+*.mlp.bak
+*.mlab.bak
+*.mcs.bak
+
+# Large data files
+*.nii
+*.nii.gz
+*.vtk
+*.stl
+*.dcm
+*/DICOM/
+
+# Result and output files
+/analysis/results/*
+/fea/results/*
+!/fea/results/.gitkeep
+/docs/figures/*
+!/docs/figures/.gitkeep
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw? 

@@ -1,0 +1,32 @@
+# Python package requirements for analysis scripts
+
+# Scientific computing
+numpy>=1.20.0
+scipy>=1.6.0
+pandas>=1.3.0
+scikit-learn>=0.24.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+vtk>=9.0.0
+
+# Medical imaging
+pydicom>=2.1.0
+nibabel>=3.2.0
+SimpleITK>=2.1.0
+
+# Mesh processing
+trimesh>=3.9.0
+pyvista>=0.31.0
+meshio>=5.0.0
+
+# FEA tools
+pyfea>=1.0.0
+ansys-api-pymapdl>=0.60
+
+# Utilities
+tqdm>=4.60.0
+pyyaml>=5.4.0
+ipython>=7.0.0
+jupyterlab>=3.0.0 
